@@ -1,2 +1,2 @@
 database_uri=s3+ddb://smart-suite-lance-db-bucket/?ddbTableName=smart-suite-lance-db-table
-selected_table=icons
+selected_table=images

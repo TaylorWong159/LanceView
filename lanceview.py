@@ -75,6 +75,11 @@ def main():
     storage = Storage(STORAGE_FILE)
     print(storage)
     st.title("LanceDB Viewer")
+    st.set_page_config(
+        page_title="LanceDB Viewer",
+        page_icon=":mag_right:",
+        layout="wide",
+    )
     database_uri_input = st.text_input(
         label="Enter the LanceDB URI",
         placeholder="lancedb://path/to/your/database",
