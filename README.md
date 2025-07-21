@@ -1,6 +1,10 @@
 # Lance View
 A simple LanceDB Viewer
 
+# Author
+- Thomas Vu
+- Taylor Wong
+
 ## Requirements
 - Python 3.12+
 
