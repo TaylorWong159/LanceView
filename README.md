@@ -4,6 +4,7 @@ A simple LanceDB Viewer
 # Author
 - Thomas Vu
 - Taylor Wong
+- Kenny Chau
 
 ## Requirements
 - Python 3.12+
